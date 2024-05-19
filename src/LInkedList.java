@@ -7,4 +7,12 @@ public class LInkedList  {
         this.node = node;
       count++;
     }
+
+    public Node getNode() {
+        return node;
+    }
+
+    public int getCount() {
+        return count;
+    }
 }
