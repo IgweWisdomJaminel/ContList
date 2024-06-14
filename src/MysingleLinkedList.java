@@ -16,7 +16,7 @@ public class MysingleLinkedList {
         current.setNext(node);
     }
     public static void main(String[] args) {
-        System.out.println();
+
 
     }
 }
